@@ -2,7 +2,7 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-This table serves to compare other UI libraries with ~5-10k stars on GitHub to help identify where the overlap is and what makes Hyperapp unique:
+This table serves to compare other UI libraries with ~5-10k stars on GitHub to help identify overlap and what makes Hyperapp unique:
 
 | GitHub ⭐️  | Name | Similaries | Differences |
 |-----------|------|------------|-------------|
