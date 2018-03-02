@@ -12,6 +12,7 @@ This table serves to compare other UI libraries with ~5-10k stars on GitHub to h
 | ![](http://githubbadges.com/star.svg?user=flightjs&repo=flight) | [Flight](https://github.com/flightjs/flight) | Small (5k), UMD build | Templates, stateful components, batteries not included (requires jQuery) |
 | ![](http://githubbadges.com/star.svg?user=marionettejs&repo=backbone.marionette) | [Marionette.js](https://github.com/marionettejs/backbone.marionette) | | |
 | ![](http://githubbadges.com/star.svg?user=cyclejs&repo=cyclejs) | [Cycle.js](https://github.com/cyclejs/cyclejs) | Functional, VDOM | Streams, actual DOM nodes are selected |
+| ![](http://githubbadges.com/star.svg?user=dvajs&repo=dva) | [dva](https://github.com/dvajs/dva) | Elm Architecture/Redux | Built with React/Redux, includes managed effects/subscriptions/router/fetch |
 | ![](http://githubbadges.com/star.svg?user=MithrilJS&repo=mithril.js) | [Mithril](https://github.com/MithrilJS/mithril.js) | Small (8k), VDOM | Built-in router and XHR |
 | ![](http://githubbadges.com/star.svg?user=knockout&repo=knockout) | [Knockout](https://github.com/knockout/knockout) | | |
 | ![](http://githubbadges.com/star.svg?user=aurelia&repo=framework) | [Aurelia](https://github.com/aurelia/framework) | [Official router](https://github.com/aurelia/router) in separate package | Templates, stateful components |
